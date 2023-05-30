@@ -23,15 +23,22 @@ We are looking forward for other participants to share their papers and codes. I
 1. 2018 **TPAMI**: Multimodal Machine Learning: A Survey and Taxonomy.[<a href= "https://arxiv.org/pdf/1705.09406" target="_blank">Paper</a>]
 
 
-
-
-
 ## <span id="jump2">Papers & Codes </span>
 According to the integrity of multi-view data, the paper is divided into deep multi-view clustering methods and deep incomplete multi-view clustering approaches.
 
 ### <span id="jump21">Deep Multi-view Clustering(DMVC)</span> 
 
 #### **2023**
+1. **CVPR**: Deep Safe Multi-View Clustering：Reducing the Risk of Clustering Performance Degradation Caused by View Increase(DSMVC)[<a href= "https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_Deep_Safe_Multi-View_Clustering_Reducing_the_Risk_of_Clustering_Performance_CVPR_2022_paper.pdf" target="_blank">Paper</a>] [<a href="https://github.com/Gasteinh/DSMVC" target="_blank">Code</a>]
+
+1. **CVPR**: Multi-level Feature Learning for Contrastive Multi-view Clustering(MFLVC)[<a href= "https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Multi-Level_Feature_Learning_for_Contrastive_Multi-View_Clustering_CVPR_2022_paper.pdf" target="_blank">Paper</a>] [<a href="https://github.com/SubmissionsIn/MFLVC" target="_blank">Code</a>]
+
+1. **AAAI**: Stationary Diffusion State Neural Estimation for Multiview Clustering(SDSNE)[<a href= "https://www.aaai.org/AAAI22Papers/AAAI-184.LiuC.pdf" target="_blank">Paper</a>] [<a href="https://github.com/kunzhan/SDSNE" target="_blank">Code</a>]
+
+1. **IJCAI**: Contrastive Multi-view Hyperbolic Hierarchical Clustering(CMHHC)[<a href= "https://arxiv.org/pdf/2205.02618.pdf" target="_blank">Paper</a>]
+
+1. **NN**: Multi-view Graph Embedding Clustering Network：Joint Self-supervision and Block Diagonal Representation(MVGC)[<a href= "https://www.sciencedirect.com/science/article/pii/S089360802100397X" target="_blank">Paper</a>] [<a href="https://github.com/xdweixia/NN-2022-MVGC" target="_blank">Code</a>]
+
 #### **2022**
 #### **2021**
 #### **2020**
