@@ -12,7 +12,12 @@ We are looking forward for other participants to share their papers and codes. I
 ---
 
 ##  <span id="jump1">Surveys </span>
-1. A Comprehensive Survey on Multi-view Clustering[<a href= "https://ieeexplore.ieee.org/abstract/document/10108535" target="_blank">Paper</a>]
+1. 2023 **TKDE**: A Comprehensive Survey on Multi-view Clustering[<a href= "https://ieeexplore.ieee.org/abstract/document/10108535" target="_blank">Paper</a>]
+
+1. 2022 **DSE**: Representation Learning in Multi-view Clustering: A Literature Review[<a href= "https://link.springer.com/article/10.1007/s41019-022-00190-8" target="_blank">Paper</a>]
+
+1. 2021 **Neurocomputing**: Deep Multi-view Learning Methods: A Review[<a href= "https://researchportal.port.ac.uk/files/26919776/Manuscript_R_pp.pdf" target="_blank">Paper</a>]
+
 
 
 ## <span id="jump2">Papers & Codes </span>
