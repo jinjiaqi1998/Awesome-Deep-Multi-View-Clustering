@@ -40,7 +40,7 @@ According to the integrity of multi-view data, the paper is divided into deep mu
 #### **2022**
 1. **CVPR**: Deep Safe Multi-View Clustering：Reducing the Risk of Clustering Performance Degradation Caused by View Increase(<ins>DSMVC</ins>)[<a href= "https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_Deep_Safe_Multi-View_Clustering_Reducing_the_Risk_of_Clustering_Performance_CVPR_2022_paper.pdf" target="_blank">Paper</a>] [<a href="https://github.com/Gasteinh/DSMVC" target="_blank">Code</a>]
 
-1. **CVPR**: Multi-level Feature Learning for Contrastive Multi-view Clustering(MFLVC)[<a href= "https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Multi-Level_Feature_Learning_for_Contrastive_Multi-View_Clustering_CVPR_2022_paper.pdf" target="_blank">Paper</a>] [<a href="https://github.com/SubmissionsIn/MFLVC" target="_blank">Code</a>]
+1. **CVPR**: Multi-level Feature Learning for Contrastive Multi-view Clustering(<ins>MFLVC</ins>)[<a href= "https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Multi-Level_Feature_Learning_for_Contrastive_Multi-View_Clustering_CVPR_2022_paper.pdf" target="_blank">Paper</a>] [<a href="https://github.com/SubmissionsIn/MFLVC" target="_blank">Code</a>]
 
 1. **AAAI**: Stationary Diffusion State Neural Estimation for Multiview Clustering(SDSNE)[<a href= "https://www.aaai.org/AAAI22Papers/AAAI-184.LiuC.pdf" target="_blank">Paper</a>] [<a href="https://github.com/kunzhan/SDSNE" target="_blank">Code</a>]
 
