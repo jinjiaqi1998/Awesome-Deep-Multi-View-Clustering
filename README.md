@@ -69,7 +69,7 @@ According to the integrity of multi-view data, the paper is divided into deep mu
 
 1. **IJCAI**: Graph Filter-based Multi-view Attributed Graph Clustering(**MvAGC**)[<a href= "https://www.ijcai.org/proceedings/2021/0375.pdf" target="_blank">Paper</a>] [<a href="https://github.com/sckangz/MvAGC" target="_blank">Code</a>]
 
-1. **Neurcom**: Multi-view Subspace Clustering Networks with Local and Global Graph Information(**MSCNGL**)[<a href= "https://arxiv.53yu.com/pdf/2010.09323" target="_blank">Paper</a>] [<a href="https://github.com/qinghai-zheng/MSCNLG" target="_blank">Code</a>]
+1. **Neurcomputing**: Multi-view Subspace Clustering Networks with Local and Global Graph Information(**MSCNGL**)[<a href= "https://arxiv.53yu.com/pdf/2010.09323" target="_blank">Paper</a>] [<a href="https://github.com/qinghai-zheng/MSCNLG" target="_blank">Code</a>]
 
 1. **NeurIPS**: Multi-view Contrastive Graph Clustering(**MCGC**)[<a href= "https://proceedings.neurips.cc/paper/2021/file/10c66082c124f8afe3df4886f5e516e0-Paper.pdf" target="_blank">Paper</a>] [<a href="https://github.com/panern/mcgc" target="_blank">Code</a>]
 
@@ -125,22 +125,64 @@ According to the integrity of multi-view data, the paper is divided into deep mu
 
 ### <span id="jump22">Deep Incomplete Multi-view Clustering(DIMVC)</span> 
 #### **2023**
+1. **CVPR**: Deep Incomplete Multi-view Clustering with Cross-view Partial Sample and Prototype Alignment(**CPSPAN**)[<a href= "http://openaccess.thecvf.com/content/CVPR2023/papers/Jin_Deep_Incomplete_Multi-View_Clustering_With_Cross-View_Partial_Sample_and_Prototype_CVPR_2023_paper.pdf" target="_blank">Paper</a>]
 
+1. **TIP**: Adaptive Feature Projection with Distribution Alignment for Deep Incomplete Multi-view Clustering(**APADC**)[<a href= "https://ieeexplore.ieee.org/abstract/document/10043822/" target="_blank">Paper</a>] [<a href="https://github.com/SubmissionsIn/APADC" target="_blank">Code</a>]
+
+1. **NN**: Incomplete Multi-view Clustering Network via Nonlinear Manifold Embedding and Probability-Induced Loss(**IMCNet-MP**)[<a href= "https://www.sciencedirect.com/science/article/pii/S0893608023001302" target="_blank">Paper</a>]
 
 #### **2022**
+1. **TPAMI**: Robust Multi-view Clustering with Incomplete Information(**SURE**)[<a href= "https://ieeexplore.ieee.org/abstract/document/9723577/" target="_blank">Paper</a>] [<a href="https://github.com/XLearning-SCU/2022-TPAMI-SURE" target="_blank">Code</a>]
 
+1. **TPAMI**: Dual Contrastive Prediction for Incomplete Multi-view Representation Learning(**DCP**)[<a href= "http://pengxi.me/wp-content/uploads/2022/08/DCP.pdf" target="_blank">Paper</a>] [<a href="https://github.com/XLearning-SCU/2021-CVPR-Completer" target="_blank">Code</a>]
+
+1. **ICML**: Deep Safe Incomplete Multi-view Clustering: Theorem and Algorithm(**DSIMVC**)[<a href= "https://proceedings.mlr.press/v162/tang22c/tang22c.pdf" target="_blank">Paper</a>] [<a href="https://github.com/Gasteinh/DSIMVC" target="_blank">Code</a>]
+
+1. **AAAI**: Deep Incomplete Multi-view Clustering via Mining Cluster Complementarity(**DIMVC**)[<a href= "https://ojs.aaai.org/index.php/AAAI/article/download/20856/20615" target="_blank">Paper</a>] [<a href="https://github.com/SubmissionsIn/DIMVC" target="_blank">Code</a>]
+
+1. **ACM MM**: Robust Diversified Graph Contrastive Network for Incomplete Multi-view Clustering(**RDGC**)[<a href= "https://dl.acm.org/doi/abs/10.1145/3503161.3547894" target="_blank">Paper</a>] [<a href="https://github.com/zh-hike/RDGC" target="_blank">Code</a>]
+
+1. **TCSVT**: Incomplete Multi-view Clustering via Cross-view Relation Transfer(**CRTC**)[<a href= "https://arxiv.org/pdf/2112.00739" target="_blank">Paper</a>]
+
+1. **TMM**: Graph Contrastive Partial Multi-view Clustering(**AGCL**)[<a href= "https://ieeexplore.ieee.org/abstract/document/9904927/" target="_blank">Paper</a>] [<a href="https://github.com/wangemm/AGCL-TMM-2022" target="_blank">Code</a>]
 
 #### **2021**
+1. **CVPR**: COMPLETER: Incomplete Multi-view Clustering via Contrastive Prediction(**COMPLETER**)[<a href= "http://pengxi.me/wp-content/uploads/2021/03/2021CVPR-completer.pdf" target="_blank">Paper</a>] [<a href="https://github.com/XLearning-SCU/2021-CVPR-Completer" target="_blank">Code</a>]
 
+1. **TIP**: iCmSC: Incomplete Cross-modal Subspace Clustering(**iCmSC**)[<a href= "https://ieeexplore.ieee.org/abstract/document/9259207" target="_blank">Paper</a>] [<a href="https://github.com/IMKBLE/iCmSC" target="_blank">Code</a>]
+
+1. **TIP**: Generative Partial Multi-View Clustering With Adaptive Fusion and Cycle Consistency(**GP-MVC**)[<a href= "https://ieeexplore.ieee.org/abstract/document/9318542/" target="_blank">Paper</a>] [<a href="https://github.com/IMKBLE/GP-MVC" target="_blank">Code</a>]
+
+1. **IJCAI**: Clustering-Induced Adaptive Structure Enhancing Network for Incomplete Multi-View Data(**CASEN**)[<a href= "https://www.ijcai.org/proceedings/2021/0445.pdf" target="_blank">Paper</a>]
+
+1. **CIKM**: Structural Deep Incomplete Multi-view Clustering Network(**SDIMC-net**)[<a href= "https://dl.acm.org/doi/abs/10.1145/3459637.3482192" target="_blank">Paper</a>]
+
+1. **SPL**: Dual Alignment Self-Supervised Incomplete Multi-View Subspace Clustering Network(**DASIMSC**)[<a href= "https://ieeexplore.ieee.org/abstract/document/9573269/" target="_blank">Paper</a>]
 
 #### **2020**
+1. **TPAMI**: Deep Partial Multi-View Learning(**DPML**)[<a href= "https://ieeexplore.ieee.org/document/9258396" target="_blank">Paper</a>] [<a href="http://cic.tju.edu.cn/faculty/zhangchangqing/code/DPML.zip" target="_blank">Code</a>]
 
+1. **IJCAI**: CDIMC-net：Cognitive Deep Incomplete Multi-view Clustering Network(**CDIMC-net**)[<a href= "https://www.ijcai.org/proceedings/2020/447" target="_blank">Paper</a>] [<a href="https://github.com/DarrenZZhang/CDIMC-Net" target="_blank">Code</a>]
+
+1. **ACM MM**: DIMC-net：Deep Incomplete Multi-view Clustering Network(**DIMC-net**)[<a href= "https://dl.acm.org/doi/10.1145/3394171.3413807" target="_blank">Paper</a>]
+
+1. **ICDM**: Deep Incomplete Multi-View Multiple Clusterings(**DiMVMC**)[<a href= "https://arxiv.org/pdf/2010.02024" target="_blank">Paper</a>]
 
 #### **2019**
+1. **NeurIPS**: CPM-Nets: Cross Partial Multi-View Networks(**CPM-Nets**)[<a href= "https://papers.nips.cc/paper/2019/file/11b9842e0a271ff252c1903e7132cd68-Paper.pdf" target="_blank">Paper</a>] [<a href="https://github.com/hanmenghan/CPM_Nets" target="_blank">Code</a>]
 
+1. **IJCAI**: Adversarial Incomplete Multi-view Clustering(**AIMC**)[<a href= "https://www.ijcai.org/proceedings/2019/0546.pdf" target="_blank">Paper</a>]
 
 #### **2018**
+1. **ICDM**: Partial Multi-View Clustering via Consistent GAN(**PVC-GAN**)[<a href= "https://drive.google.com/file/d/1RrVeq_FHkLSgltNd1bVfyaHhtIclV5ZG/view" target="_blank">Paper</a>] [<a href="https://github.com/IMKBLE/PVC-GAN" target="_blank">Code</a>]
 
-
-
-
+If you use our code or datasets, please cite our with the following bibtex code :
+```
+@inproceedings{jin2023deep,
+  title={Deep Incomplete Multi-view Clustering with Cross-view Partial Sample and Prototype Alignment},
+  author={Jin, Jiaqi and Wang, Siwei and Dong, Zhibin and Liu, Xinwang and Zhu, En},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={11600--11609},
+  year={2023}
+}
+```
