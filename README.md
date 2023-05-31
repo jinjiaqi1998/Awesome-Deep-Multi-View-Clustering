@@ -176,6 +176,8 @@ According to the integrity of multi-view data, the paper is divided into deep mu
 #### **2018**
 1. **ICDM**: Partial Multi-View Clustering via Consistent GAN(**PVC-GAN**)[<a href= "https://drive.google.com/file/d/1RrVeq_FHkLSgltNd1bVfyaHhtIclV5ZG/view" target="_blank">Paper</a>] [<a href="https://github.com/IMKBLE/PVC-GAN" target="_blank">Code</a>]
 
+---
+
 If you use our code or datasets, please cite our with the following bibtex code :
 ```
 @inproceedings{jin2023deep,
