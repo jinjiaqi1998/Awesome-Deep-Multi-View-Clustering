@@ -108,7 +108,7 @@ According to the integrity of multi-view data, the paper is divided into deep mu
 
 1. **STSP**: Deep Multimodal Subspace Clustering Networks(**DMSC**)[<a href= "https://arxiv.org/pdf/1804.06498.pdf" target="_blank">Paper</a>] [<a href="https://github.com/mahdiabavisani/Deep-multimodal-subspace-clustering-networks" target="_blank">Code</a>]
 
-
+1. **CoRR**: Deep Multi-View Clustering via Multiple Embedding(**DMVC-ME**)[<a href= "https://deepai.org/publication/deep-multi-view-clustering-via-multiple-embedding" target="_blank">Paper</a>]
 
 
 ### <span id="jump22">Deep Incomplete Multi-view Clustering(DIMVC)</span> 
