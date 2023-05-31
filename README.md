@@ -86,6 +86,8 @@ According to the integrity of multi-view data, the paper is divided into deep mu
 
 1. **IJCAI**: Multi-View Attribute Graph Convolution Networks for Clustering(**MAGCN**)[<a href= "https://www.ijcai.org/proceedings/2020/0411.pdf" target="_blank">Paper</a>] [<a href="https://github.com/IMKBLE/MAGCN" target="_blank">Code</a>]
 
+1. **ICME**: End-To-End Deep Multimodal Clustering(**DMMC**)[<a href= "https://ieeexplore.ieee.org/abstract/document/9102921/" target="_blank">Paper</a>] [<a href="https://github.com/Guanzhou-Ke/DMMC-zoo" target="_blank">Code</a>]
+
 1. **IS**: Deep Embedded Multi-view Clustering with Collaborative Training(**DEMVC**)[<a href= "https://arxiv.org/pdf/2007.13067.pdf" target="_blank">Paper</a>] [<a href="https://github.com/SubmissionsIn/DEMVC" target="_blank">Code</a>]
 
 1. **TKDE**: Joint Deep Multi-View Learning for Image Clustering(**DMJC**)[<a href= "https://ieeexplore.ieee.org/abstract/document/8999493/" target="_blank">Paper</a>]
