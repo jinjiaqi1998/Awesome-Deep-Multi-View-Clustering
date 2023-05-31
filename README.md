@@ -48,6 +48,8 @@ According to the integrity of multi-view data, the paper is divided into deep mu
 
 1. **NN**: Multi-view Graph Embedding Clustering Network：Joint Self-supervision and Block Diagonal Representation(**MVGC**)[<a href= "https://www.sciencedirect.com/science/article/pii/S089360802100397X" target="_blank">Paper</a>] [<a href="https://github.com/xdweixia/NN-2022-MVGC" target="_blank">Code</a>]
 
+1. **APPL INTELL**: Efficient Multi‑view Clustering Networks(**EMC-Nets**)[<a href= "https://link.springer.com/article/10.1007/s10489-021-03129-0" target="_blank">Paper</a>] [<a href="https://github.com/Guanzhou-Ke/EMC-Nets" target="_blank">Code</a>]
+
 #### **2021**
 1. **AAAI**: Deep Mutual Information Maximin for Cross-Modal Clustering(**DMIM**)[<a href= "https://ojs.aaai.org/index.php/AAAI/article/view/17076/16883" target="_blank">Paper</a>]
 
