@@ -1,5 +1,5 @@
 # Awesome-Deep-Multiview-Clustering
-Collections for state-of-the-art and novel deep neural network-based multi-view clustering approaches (papers & codes). According to the integrity of multi-view data, such methods can be further subdivided into Deep Multi-view Clustering(DMVC) and Deep Incomplete Multi-view Clustering(DIMVC).
+Collections for state-of-the-art and novel deep neural network-based multi-view clustering approaches (papers & codes). According to the integrity of multi-view data, such methods can be further subdivided into Deep Multi-view Clustering(**DMVC**) and Deep Incomplete Multi-view Clustering(**DIMVC**).
 
 We are looking forward for other participants to share their papers and codes. If interested or any question about the listed papers and codes, please contanct <jinjiaqi@nudt.edu.cn>.
 
