@@ -73,6 +73,8 @@ According to the integrity of multi-view data, the paper is divided into deep mu
 
 1. **TMM**: Self-supervised Graph Convolutional Network for Multi-view Clustering(**SGCMC**)[<a href= "https://ieeexplore.ieee.org/abstract/document/9472979/" target="_blank">Paper</a>] [<a href="https://github.com/xdweixia/SGCMC" target="_blank">Code</a>]
 
+1. **TMM**: Consistent Multiple Graph Embedding for Multi-View Clustering(**CMGEC**)[<a href= "https://arxiv.org/pdf/2105.04880" target="_blank">Paper</a>] [<a href="https://github.com/wangemm/CMGEC-TMM-2021" target="_blank">Code</a>]
+
 1. **TNNLS**: Deep Multiview Collaborative Clustering(**DMCC**)[<a href= "https://see.xidian.edu.cn/faculty/chdeng/Welcome%20to%20Cheng%20Deng's%20Homepage_files/Papers/Journal/TNNLS2021_Xu.pdf" target="_blank">Paper</a>]
 
 1. **ACM MM**: Consistent Multiple Graph Embedding for Multi-View Clustering(**CMGEC**)[<a href= "https://arxiv.org/pdf/2105.04880.pdf" target="_blank">Paper</a>] [<a href="https://github.com/wangemm/CMGEC" target="_blank">Code</a>]
