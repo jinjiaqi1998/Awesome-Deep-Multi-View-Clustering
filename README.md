@@ -28,6 +28,7 @@ We are looking forward for other participants to share their papers and codes. I
 
 1. 2013 **Arxiv**: A Survey on Multi-view Learning.[<a href= "https://arxiv.org/pdf/1304.5634" target="_blank">Paper</a>]
 
+---
 
 ## <span id="jump2">Papers & Codes </span>
 According to the integrity of multi-view data, the paper is divided into deep multi-view clustering methods and deep incomplete multi-view clustering approaches.
@@ -122,6 +123,7 @@ According to the integrity of multi-view data, the paper is divided into deep mu
 
 1. **CoRR**: Deep Multi-View Clustering via Multiple Embedding(**DMVC-ME**).[<a href= "https://deepai.org/publication/deep-multi-view-clustering-via-multiple-embedding" target="_blank">Paper</a>]
 
+---
 
 ### <span id="jump22">Deep Incomplete Multi-view Clustering(DIMVC)</span> 
 #### **2023**
