@@ -1,6 +1,5 @@
-[stars-img]: https://img.shields.io/github/stars/yueliu1999/Awesome-Deep-Graph-Clustering?color=yellow
-[fork-url]: https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering/network/members
-
+[stars-img]: https://img.shields.io/github/stars/jinjiaqi1998/Awesome-Deep-Multiview-Clustering?color=yellow
+[fork-url]: https://github.com/jinjiaqi1998/Awesome-Deep-Multiview-Clustering/network/members
 
 
 # Awesome-Deep-Multiview-Clustering
