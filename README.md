@@ -52,20 +52,18 @@ According to the integrity of multi-view data, the paper is divided into deep mu
 
 ### <span id="jump31">Deep Multi-view Clustering(DMVC)</span> 
 
-| Year | Title                                                        | Abbreviation |    Venue    |                            Paper                             | Code |
-| ---- | ------------------------------------------------------------ | :---------: | :---------: | :----------------------------------------------------------: | :--: |
-| 2023 | **An Overview of Advanced Deep Graph Node Clustering** | A | TCSS   | [![](https://img.shields.io/badge/-paper-blue)](https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_Deep_Safe_Multi-View_Clustering_Reducing_the_Risk_of_Clustering_Performance_CVPR_2022_paper.pdf) |  [![](https://img.shields.io/badge/-code-red)](https://github.com/Gasteinh/DSMVC)  |
-| 2022 | **A Survey of Deep Graph Clustering: Taxonomy, Challenge, and Application** |    arXiv    |  |  [Link](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering) |
-| 2022 | **A Comprehensive Survey on Community Detection with Deep Learning** |    TNNLS    | [Link](https://arxiv.org/pdf/2105.12584.pdf?ref=https://githubhelp.com) |  -   |
-| 2020 | **A Comprehensive Survey on Graph Neural Networks**          |    TNNLS    | [Link](https://ieeexplore.ieee.org/abstract/document/9046288) |  -   |
-| 2020 | **Deep Learning for Community Detection: Progress, Challenges and Opportunities** |    IJCAI    |           [Link](https://arxiv.org/pdf/2005.08225)           |  -   |
-| 2018 | **A survey of clustering with deep learning: From the perspective of network architecture** | IEEE Access | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8412085) |  -   |
+| Year | Title                                                        | Abbreviation |    Venue    |    Paper    |     Code    |
+| ---- | ------------------------------------------------------------ | :----------: | :---------: | :---------: | :---------: |
+| 2023 | **Self-Supervised Information Bottleneck for Deep Multi-View Subspace Clustering** | **SIB-MSC** | TIP   | [![](https://img.shields.io/badge/-paper-blue)](https://arxiv.org/pdf/2204.12496.pdf) |  -  |
+| 2023 | **Multi-channel Augmented Graph Embedding Convolutional Network for Multi-view Clustering** |    **MAGEC-Net**    | TNSE |  [![](https://img.shields.io/badge/-paper-blue)](https://ieeexplore.ieee.org/abstract/document/10043740/) | - |
+| 2022 | **Deep Safe Multi-View Clustering：Reducing the Risk of Clustering Performance Degradation Caused by View Increase** | **DSMVC** | CVPR |  [![](https://img.shields.io/badge/-paper-blue)](https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_Deep_Safe_Multi-View_Clustering_Reducing_the_Risk_of_Clustering_Performance_CVPR_2022_paper.pdf) | [![](https://img.shields.io/badge/-code-red)](https://github.com/Gasteinh/DSMVC) |
+| 20 | **A** |    AA    | Arxiv |  [![](https://img.shields.io/badge/-paper-blue)]() | [![](https://img.shields.io/badge/-code-red)]() |
+| 20 | **A** |    AA    | Arxiv |  [![](https://img.shields.io/badge/-paper-blue)]() | [![](https://img.shields.io/badge/-code-red)]() |
+| 20 | **A** |    AA    | Arxiv |  [![](https://img.shields.io/badge/-paper-blue)]() | [![](https://img.shields.io/badge/-code-red)]() |
+| 20 | **A** |    AA    | Arxiv |  [![](https://img.shields.io/badge/-paper-blue)]() | [![](https://img.shields.io/badge/-code-red)]() |
+| 20 | **A** |    AA    | Arxiv |  [![](https://img.shields.io/badge/-paper-blue)]() | [![](https://img.shields.io/badge/-code-red)]() |
+| 20 | **A** |    AA    | Arxiv |  [![](https://img.shields.io/badge/-paper-blue)]() | [![](https://img.shields.io/badge/-code-red)]() |
 
-
-#### **2023**
-1. **TIP**: Self-Supervised Information Bottleneck for Deep Multi-View Subspace Clustering(**SIB-MSC**).[<a href= "https://arxiv.org/pdf/2204.12496.pdf" target="_blank">Paper</a>]
-
-1. **TNSE**: Multi-channel Augmented Graph Embedding Convolutional Network for Multi-view Clustering(**MAGEC-Net**).[<a href= "https://ieeexplore.ieee.org/abstract/document/10043740/" target="_blank">Paper</a>]
 
 #### **2022**
 1. **CVPR**: Deep Safe Multi-View Clustering：Reducing the Risk of Clustering Performance Degradation Caused by View Increase(**DSMVC**).[<a href= "https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_Deep_Safe_Multi-View_Clustering_Reducing_the_Risk_of_Clustering_Performance_CVPR_2022_paper.pdf" target="_blank">Paper</a>] [<a href="https://github.com/Gasteinh/DSMVC" target="_blank">Code</a>]
