@@ -34,38 +34,16 @@ Deep multi-view clustering aims to reveal the potential complementary informatio
 </div>
 
 ##  <span id="jump2">Surveys </span>
-
-| Year | Title                                                        |    Venue    |                            Paper                             | Code |
-| ---- | ------------------------------------------------------------ | :---------: | :----------------------------------------------------------: | :--: |
-| 2023 | **An Overview of Advanced Deep Graph Node Clustering** |    TCSS   | [![](https://img.shields.io/badge/-paper-blue)](https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_Deep_Safe_Multi-View_Clustering_Reducing_the_Risk_of_Clustering_Performance_CVPR_2022_paper.pdf) |  [![](https://img.shields.io/badge/-code-red)](https://github.com/Gasteinh/DSMVC)  |
-| 2022 | **A Survey of Deep Graph Clustering: Taxonomy, Challenge, and Application** |    arXiv    |  |  [Link](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering) |
-| 2022 | **A Comprehensive Survey on Community Detection with Deep Learning** |    TNNLS    | [Link](https://arxiv.org/pdf/2105.12584.pdf?ref=https://githubhelp.com) |  -   |
-| 2020 | **A Comprehensive Survey on Graph Neural Networks**          |    TNNLS    | [Link](https://ieeexplore.ieee.org/abstract/document/9046288) |  -   |
-| 2020 | **Deep Learning for Community Detection: Progress, Challenges and Opportunities** |    IJCAI    |           [Link](https://arxiv.org/pdf/2005.08225)           |  -   |
-| 2018 | **A survey of clustering with deep learning: From the perspective of network architecture** | IEEE Access | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8412085) |  -   |
-
-
 | Year | Title                                                        |    Venue    |                            Paper                             |
 | ---- | ------------------------------------------------------------ | :---------: | :----------------------------------------------------------: |
-| 2023 | **A Comprehensive Survey on Multi-view Clustering** |    TKDE   | [paper](https://ieeexplore.ieee.org/abstract/document/10108535) |
-| 2022 | **Representation Learning in Multi-view Clustering: A Literature Review** |    [![](https://img.shields.io/badge/-paper-blue)](https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_Deep_Safe_Multi-View_Clustering_Reducing_the_Risk_of_Clustering_Performance_CVPR_2022_paper.pdf)   | [![](https://img.shields.io/badge/-code-red](https://github.com/Gasteinh/DSMVC)|
-
-
-1. 2023 **TKDE**: A Comprehensive Survey on Multi-view Clustering.[<a href= "https://ieeexplore.ieee.org/abstract/document/10108535" target="_blank">Paper</a>]
-
-1. 2022 **DSE**: Representation Learning in Multi-view Clustering: A Literature Review.[<a href= "https://link.springer.com/article/10.1007/s41019-022-00190-8" target="_blank">Paper</a>]
-
-1. 2022 **Arxiv**: Foundations and Recent Trends in Multimodal Machine Learning: Principles, Challenges, and Open Questions.[<a href= "https://arxiv.org/pdf/2209.03430" target="_blank">Paper</a>]
-
-1. 2021 **Neurocom**: Deep Multi-view Learning Methods: A Review.[<a href= "https://researchportal.port.ac.uk/files/26919776/Manuscript_R_pp.pdf" target="_blank">Paper</a>]
-
-1. 2018 **BDMA**: Multi-view Clustering: A Survey.[<a href= "https://ieeexplore.ieee.org/iel7/8254253/8336843/08336846.pdf" target="_blank">Paper</a>]
-
-1. 2018 **TPAMI**: Multimodal Machine Learning: A Survey and Taxonomy.[<a href= "https://arxiv.org/pdf/1705.09406" target="_blank">Paper</a>]
-
-1. 2017 **Arxiv**: Multi-view Learning Overview：Recent Progress and New Challenges.[<a href= "https://shiliangsun.github.io/pubs/MVLoverviewIF17.pdf" target="_blank">Paper</a>]
-
-1. 2013 **Arxiv**: A Survey on Multi-view Learning.[<a href= "https://arxiv.org/pdf/1304.5634" target="_blank">Paper</a>]
+| 2023 | **A Comprehensive Survey on Multi-view Clustering** |    TKDE   | [![](https://img.shields.io/badge/-paper-blue)](https://ieeexplore.ieee.org/abstract/document/10108535) |
+| 2022 | **Representation Learning in Multi-view Clustering: A Literature Review** | DSE | [![](https://img.shields.io/badge/-paper-blue)](https://link.springer.com/article/10.1007/s41019-022-00190-8) |
+| 2022 | **Foundations and Recent Trends in Multimodal Machine Learning: Principles, Challenges, and Open Questions** | Arxiv | [![](https://img.shields.io/badge/-paper-blue)](https://arxiv.org/pdf/2209.03430) |
+| 2021 | **Deep Multi-view Learning Methods: A Review** | Neurocom | [![](https://img.shields.io/badge/-paper-blue)](https://researchportal.port.ac.uk/files/26919776/Manuscript_R_pp.pdf) |
+| 2018 | **Multi-view Clustering: A Survey** | BDMA | [![](https://img.shields.io/badge/-paper-blue)](https://ieeexplore.ieee.org/iel7/8254253/8336843/08336846.pdf) |
+| 2018 | **Multimodal Machine Learning: A Survey and Taxonomy** | TPAMI | [![](https://img.shields.io/badge/-paper-blue)](https://arxiv.org/pdf/1705.09406) |
+| 2017 | **Multi-view Learning Overview：Recent Progress and New Challenges** | Arxiv | [![](https://img.shields.io/badge/-paper-blue)](https://shiliangsun.github.io/pubs/MVLoverviewIF17.pdf) |
+| 2013 | **A Survey on Multi-view Learning** | Arxiv | [![](https://img.shields.io/badge/-paper-blue)](https://arxiv.org/pdf/1304.5634) |
 
 ---
 
@@ -73,6 +51,16 @@ Deep multi-view clustering aims to reveal the potential complementary informatio
 According to the integrity of multi-view data, the paper is divided into deep multi-view clustering methods and deep incomplete multi-view clustering approaches.
 
 ### <span id="jump31">Deep Multi-view Clustering(DMVC)</span> 
+
+| Year | Title                                                        | Abbreviation |    Venue    |                            Paper                             | Code |
+| ---- | ------------------------------------------------------------ | :---------: | :---------: | :----------------------------------------------------------: | :--: |
+| 2023 | **An Overview of Advanced Deep Graph Node Clustering** | A | TCSS   | [![](https://img.shields.io/badge/-paper-blue)](https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_Deep_Safe_Multi-View_Clustering_Reducing_the_Risk_of_Clustering_Performance_CVPR_2022_paper.pdf) |  [![](https://img.shields.io/badge/-code-red)](https://github.com/Gasteinh/DSMVC)  |
+| 2022 | **A Survey of Deep Graph Clustering: Taxonomy, Challenge, and Application** |    arXiv    |  |  [Link](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering) |
+| 2022 | **A Comprehensive Survey on Community Detection with Deep Learning** |    TNNLS    | [Link](https://arxiv.org/pdf/2105.12584.pdf?ref=https://githubhelp.com) |  -   |
+| 2020 | **A Comprehensive Survey on Graph Neural Networks**          |    TNNLS    | [Link](https://ieeexplore.ieee.org/abstract/document/9046288) |  -   |
+| 2020 | **Deep Learning for Community Detection: Progress, Challenges and Opportunities** |    IJCAI    |           [Link](https://arxiv.org/pdf/2005.08225)           |  -   |
+| 2018 | **A survey of clustering with deep learning: From the perspective of network architecture** | IEEE Access | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8412085) |  -   |
+
 
 #### **2023**
 1. **TIP**: Self-Supervised Information Bottleneck for Deep Multi-View Subspace Clustering(**SIB-MSC**).[<a href= "https://arxiv.org/pdf/2204.12496.pdf" target="_blank">Paper</a>]
