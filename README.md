@@ -24,7 +24,7 @@ We are looking forward for other participants to share their papers and codes. I
 Deep multi-view clustering aims to reveal the potential complementary information of multiple features or modalities through deep neural networks, and finally divide samples into different groups in unsupervised scenarios.
 
 <div  align="center">    
-    <img src="./DMVC_frame.png" width=90% />
+    <img src="./DMVC_frame.png" width=70% />
 </div>
 
 ##  <span id="jump2">Surveys </span>
