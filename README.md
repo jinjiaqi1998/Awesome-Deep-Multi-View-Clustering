@@ -12,7 +12,7 @@ We are looking forward for other participants to share their papers and codes. I
 [![GitHub stars][stars-img]][stars-url]
 [![GitHub forks][fork-img]][fork-url]
 
-[![BaiDu](http://www.baidu.com/img/bdlogo.gif)](http://baidu.com)
+
 
 ##  Table of Contents
 - [What's Deep Multi-view Clustering?](#jump1) 
@@ -45,6 +45,11 @@ Deep multi-view clustering aims to reveal the potential complementary informatio
 | 2018 | **A survey of clustering with deep learning: From the perspective of network architecture** | IEEE Access | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8412085) |
 | 2017 | **A survey of clustering with deep learning: From the perspective of network architecture** | IEEE Access | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8412085) |
 | 2013 | **A survey of clustering with deep learning: From the perspective of network architecture** | IEEE Access | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8412085) |
+
+1. **CVPR**: Deep Safe Multi-View Clustering(**DSMVC**).[![paper](https://img.shields.io/github/stars/jinjiaqi1998/Awesome-Deep-Multiview-Clustering?color=yellow)](https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_Deep_Safe_Multi-View_Clustering_Reducing_the_Risk_of_Clustering_Performance_CVPR_2022_paper.pdf)
+
+
+
 
 1. 2023 **TKDE**: A Comprehensive Survey on Multi-view Clustering.[<a href= "https://ieeexplore.ieee.org/abstract/document/10108535" target="_blank">Paper</a>]
 
