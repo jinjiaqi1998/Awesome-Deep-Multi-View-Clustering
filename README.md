@@ -3,8 +3,7 @@ Collections for state-of-the-art and novel deep neural network-based multi-view 
 
 We are looking forward for other participants to share their papers and codes. If interested or any question about the listed papers and codes, please contanct <jinjiaqi@nudt.edu.cn>. If you find this repository useful to your research or work, it is really appreciated to star this repository. :sparkles: If you use our code or the processed datasets in this repository for your research, please cite 1-2 papers in the citation part [here](#jump4). :heart:
 
-[![GitHub stars][stars-img]][stars-url]
-[![GitHub forks][fork-img]][fork-url]
+
 
 
 
@@ -28,6 +27,16 @@ Deep multi-view clustering aims to reveal the potential complementary informatio
 </div>
 
 ##  <span id="jump2">Surveys </span>
+
+| Year | Title                                                        |    Venue    |                            Paper                             | Code |
+| ---- | ------------------------------------------------------------ | :---------: | :----------------------------------------------------------: | :--: |
+| 2023 | **An Overview of Advanced Deep Graph Node Clustering** |    TCSS   | [Link](https://ieeexplore.ieee.org/abstract/document/10049408) |  - |
+| 2022 | **A Survey of Deep Graph Clustering: Taxonomy, Challenge, and Application** |    arXiv    | [Link](https://arxiv.org/abs/2211.12875) |  [Link](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering) |
+| 2022 | **A Comprehensive Survey on Community Detection with Deep Learning** |    TNNLS    | [Link](https://arxiv.org/pdf/2105.12584.pdf?ref=https://githubhelp.com) |  -   |
+| 2020 | **A Comprehensive Survey on Graph Neural Networks**          |    TNNLS    | [Link](https://ieeexplore.ieee.org/abstract/document/9046288) |  -   |
+| 2020 | **Deep Learning for Community Detection: Progress, Challenges and Opportunities** |    IJCAI    |           [Link](https://arxiv.org/pdf/2005.08225)           |  -   |
+| 2018 | **A survey of clustering with deep learning: From the perspective of network architecture** | IEEE Access | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8412085) |  -   |
+
 1. 2023 **TKDE**: A Comprehensive Survey on Multi-view Clustering.[<a href= "https://ieeexplore.ieee.org/abstract/document/10108535" target="_blank">Paper</a>]
 
 1. 2022 **DSE**: Representation Learning in Multi-view Clustering: A Literature Review.[<a href= "https://link.springer.com/article/10.1007/s41019-022-00190-8" target="_blank">Paper</a>]
