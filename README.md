@@ -12,7 +12,7 @@ We are looking forward for other participants to share their papers and codes. I
 [![GitHub stars][stars-img]][stars-url]
 [![GitHub forks][fork-img]][fork-url]
 
-
+[![BaiDu](http://www.baidu.com/img/bdlogo.gif)](http://baidu.com)
 
 ##  Table of Contents
 - [What's Deep Multi-view Clustering?](#jump1) 
@@ -38,7 +38,7 @@ Deep multi-view clustering aims to reveal the potential complementary informatio
 | Year | Title                                                        |    Venue    |                            Paper                             |
 | ---- | ------------------------------------------------------------ | :---------: | :----------------------------------------------------------: |
 | 2023 | **A Comprehensive Survey on Multi-view Clustering** |    TKDE   | [paper](https://ieeexplore.ieee.org/abstract/document/10108535) |
-| 2022 | **A Survey of Deep Graph Clustering: Taxonomy, Challenge, and Application** |    arXiv    | [Link](https://arxiv.org/abs/2211.12875) |
+| 2022 | **Representation Learning in Multi-view Clustering: A Literature Review** |    DSE    | [Link](https://arxiv.org/abs/2211.12875) |
 | 2022 | **A Comprehensive Survey on Community Detection with Deep Learning** |    TNNLS    | [Link](https://arxiv.org/pdf/2105.12584.pdf?ref=https://githubhelp.com) |
 | 2021 | **A Comprehensive Survey on Graph Neural Networks**          |    TNNLS    | [Link](https://ieeexplore.ieee.org/abstract/document/9046288) |
 | 2018 | **Deep Learning for Community Detection: Progress, Challenges and Opportunities** |    IJCAI    |           [Link](https://arxiv.org/pdf/2005.08225)           |
