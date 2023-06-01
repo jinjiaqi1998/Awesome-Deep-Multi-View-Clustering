@@ -1,4 +1,6 @@
 [stars-img]: https://img.shields.io/github/stars/jinjiaqi1998/Awesome-Deep-Multiview-Clustering?color=yellow
+[stars-url]: https://github.com/jinjiaqi1998/Awesome-Deep-Multiview-Clustering/stargazers
+[fork-img]: https://img.shields.io/github/forks/jinjiaqi1998/Awesome-Deep-Multiview-Clustering?color=lightblue&label=fork
 [fork-url]: https://github.com/jinjiaqi1998/Awesome-Deep-Multiview-Clustering/network/members
 
 
