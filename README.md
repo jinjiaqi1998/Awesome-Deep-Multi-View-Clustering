@@ -46,7 +46,7 @@ Deep multi-view clustering aims to reveal the potential complementary informatio
 | 2017 | **A survey of clustering with deep learning: From the perspective of network architecture** | IEEE Access | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8412085) |
 | 2013 | **A survey of clustering with deep learning: From the perspective of network architecture** | IEEE Access | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8412085) |
 
-1. **CVPR**: Deep Safe Multi-View Clustering(**DSMVC**).[![paper](https://img.shields.io/github/stars/jinjiaqi1998/Awesome-Deep-Multiview-Clustering?label=paper)](https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_Deep_Safe_Multi-View_Clustering_Reducing_the_Risk_of_Clustering_Performance_CVPR_2022_paper.pdf)
+1. **CVPR**: Deep Safe Multi-View Clustering(**DSMVC**).[![paper](https://img.shields.io/badge/%20-paper-blue)](https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_Deep_Safe_Multi-View_Clustering_Reducing_the_Risk_of_Clustering_Performance_CVPR_2022_paper.pdf)
 
 
 
