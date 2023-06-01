@@ -1,17 +1,25 @@
 # Awesome-Deep-Multiview-Clustering
 Collections for state-of-the-art and novel deep neural network-based multi-view clustering approaches (papers & codes). According to the integrity of multi-view data, such methods can be further subdivided into Deep Multi-view Clustering(**DMVC**) and Deep Incomplete Multi-view Clustering(**DIMVC**).
 
-We are looking forward for other participants to share their papers and codes. If interested or any question about the listed papers and codes, please contanct <jinjiaqi@nudt.edu.cn>.
+We are looking forward for other participants to share their papers and codes. If interested or any question about the listed papers and codes, please contanct <jinjiaqi@nudt.edu.cn>. If you find this repository useful to your research or work, it is really appreciated to star this repository. :sparkles: If you use our code or the processed datasets in this repository for your research, please cite 1-2 papers in the citation part [here](https://github.com/jinjiaqi1998/Awesome-Deep-Multiview-Clustering#citation). :heart:
 
 ##  Table of Contents
-- [Surveys](#jump1) 
-- [Papers & Codes](#jump2)
-    - [Deep Multi-view Clustering(DMVC)](#jump21)
-    - [Deep Incomplete Multi-view Clustering(DIMVC)](#jump22)
-    
----
+- [What's Deep Multi-view Clustering?](#jump1) 
+- [Surveys](#jump2) 
+- [Papers & Codes](#jump3)
+    - [Deep Multi-view Clustering(DMVC)](#jump31)
+    - [Deep Incomplete Multi-view Clustering(DIMVC)](#jump32)
+- [Citation](#jump4)
 
-##  <span id="jump1">Surveys </span>
+---
+## <span id="jump1">What's Deep Multi-view Clustering? </span>
+Deep multi-view clustering aims to reveal the potential complementary information of multiple features or modalities through deep neural networks, and finally divide samples into different groups in unsupervised scenarios.
+
+<div  align="center">    
+    <img src="./DMVC_frame.png" width=90% />
+</div>
+
+##  <span id="jump2">Surveys </span>
 1. 2023 **TKDE**: A Comprehensive Survey on Multi-view Clustering.[<a href= "https://ieeexplore.ieee.org/abstract/document/10108535" target="_blank">Paper</a>]
 
 1. 2022 **DSE**: Representation Learning in Multi-view Clustering: A Literature Review.[<a href= "https://link.springer.com/article/10.1007/s41019-022-00190-8" target="_blank">Paper</a>]
@@ -30,10 +38,10 @@ We are looking forward for other participants to share their papers and codes. I
 
 ---
 
-## <span id="jump2">Papers & Codes </span>
+## <span id="jump3">Papers & Codes </span>
 According to the integrity of multi-view data, the paper is divided into deep multi-view clustering methods and deep incomplete multi-view clustering approaches.
 
-### <span id="jump21">Deep Multi-view Clustering(DMVC)</span> 
+### <span id="jump31">Deep Multi-view Clustering(DMVC)</span> 
 
 #### **2023**
 1. **TIP**: Self-Supervised Information Bottleneck for Deep Multi-View Subspace Clustering(**SIB-MSC**).[<a href= "https://arxiv.org/pdf/2204.12496.pdf" target="_blank">Paper</a>]
@@ -125,7 +133,7 @@ According to the integrity of multi-view data, the paper is divided into deep mu
 
 ---
 
-### <span id="jump22">Deep Incomplete Multi-view Clustering(DIMVC)</span> 
+### <span id="jump32">Deep Incomplete Multi-view Clustering(DIMVC)</span> 
 #### **2023**
 1. **CVPR**: Deep Incomplete Multi-view Clustering with Cross-view Partial Sample and Prototype Alignment(**CPSPAN**).[<a href= "http://openaccess.thecvf.com/content/CVPR2023/papers/Jin_Deep_Incomplete_Multi-View_Clustering_With_Cross-View_Partial_Sample_and_Prototype_CVPR_2023_paper.pdf" target="_blank">Paper</a>]
 
@@ -180,7 +188,7 @@ According to the integrity of multi-view data, the paper is divided into deep mu
 
 ---
 
-If you use our code or datasets, please cite our with the following bibtex code :
+## <span id="jump4">Citation </span>
 ```
 @inproceedings{jin2023deep,
   title={Deep Incomplete Multi-view Clustering with Cross-view Partial Sample and Prototype Alignment},
