@@ -40,6 +40,7 @@ Deep multi-view clustering aims to reveal the potential complementary informatio
 | 2022 | **Representation Learning in Multi-view Clustering: A Literature Review** | DSE | [![](https://img.shields.io/badge/-paper-blue)](https://link.springer.com/article/10.1007/s41019-022-00190-8) |
 | 2022 | **Foundations and Recent Trends in Multimodal Machine Learning: Principles, Challenges, and Open Questions** | Arxiv | [![](https://img.shields.io/badge/-paper-blue)](https://arxiv.org/pdf/2209.03430) |
 | 2021 | **Deep Multi-view Learning Methods: A Review** | Neurocom | [![](https://img.shields.io/badge/-paper-blue)](https://researchportal.port.ac.uk/files/26919776/Manuscript_R_pp.pdf) |
+| 2018 | **A Survey of Multi-View Representation Learning** | TKDE | [![](https://img.shields.io/badge/-paper-blue)](https://arxiv.org/pdf/1610.01206) |
 | 2018 | **Multi-view Clustering: A Survey** | BDMA | [![](https://img.shields.io/badge/-paper-blue)](https://ieeexplore.ieee.org/iel7/8254253/8336843/08336846.pdf) |
 | 2018 | **Multimodal Machine Learning: A Survey and Taxonomy** | TPAMI | [![](https://img.shields.io/badge/-paper-blue)](https://arxiv.org/pdf/1705.09406) |
 | 2017 | **Multi-view Learning Overview：Recent Progress and New Challenges** | Arxiv | [![](https://img.shields.io/badge/-paper-blue)](https://shiliangsun.github.io/pubs/MVLoverviewIF17.pdf) |
