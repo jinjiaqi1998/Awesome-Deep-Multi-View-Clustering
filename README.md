@@ -45,7 +45,7 @@ Deep multi-view clustering aims to reveal the potential complementary informatio
 | 2018 | **Multi-view Clustering: A Survey** | BDMA | [![](https://img.shields.io/badge/-paper-blue)](https://ieeexplore.ieee.org/iel7/8254253/8336843/08336846.pdf) |
 | 2018 | **Multimodal Machine Learning: A Survey and Taxonomy** | TPAMI | [![](https://img.shields.io/badge/-paper-blue)](https://arxiv.org/pdf/1705.09406) |
 | 2018 | **A Survey on Multi-View Clustering** | Arxiv | [![](https://img.shields.io/badge/-paper-blue)](https://arxiv.org/pdf/1712.06246.pdf) |
-| 2017 | **Multi-view Learning Overview：Recent Progress and New Challenges** | Arxiv | [![](https://img.shields.io/badge/-paper-blue)](https://shiliangsun.github.io/pubs/MVLoverviewIF17.pdf) |
+| 2017 | **Multi-view Learning Overview：Recent Progress and New Challenges** | IF | [![](https://img.shields.io/badge/-paper-blue)](https://shiliangsun.github.io/pubs/MVLoverviewIF17.pdf) |
 | 2013 | **A Survey on Multi-view Learning** | Arxiv | [![](https://img.shields.io/badge/-paper-blue)](https://arxiv.org/pdf/1304.5634) |
 
 ---
