@@ -57,6 +57,7 @@ According to the integrity of multi-view data, the paper is divided into deep mu
 
 | Year | Title                                                        | Abbreviation |    Venue    |    Paper    |     Code    |
 | ---- | ------------------------------------------------------------ | :----------: | :---------: | :---------: | :---------: |
+| 2023 | **Self-Supervised Graph Attention Networks for Deep Weighted Multi-View Clustering** | **SGDMC** | AAAI | [![](https://ojs.aaai.org/index.php/AAAI/article/view/25960/25732) | - |
 | 2023 | **Auto-attention Mechanism for Multi-view Deep Embedding Clustering** | **MDEC** | PR | [![](https://www.sciencedirect.com/science/article/abs/pii/S0031320323004624) | - |
 | 2023 | **Dual Fusion-Propagation Graph Neural Network for Multi-view Clustering** | **DFP-GNN** | TMM | [![](https://img.shields.io/badge/-paper-blue)](https://ieeexplore.ieee.org/abstract/document/10050836/) | - |
 | 2023 | **Joint Shared-and-Specific Information for Deep Multi-View Clustering** | **JSSI** | TCSVT | [![](https://img.shields.io/badge/-paper-blue)](https://ieeexplore.ieee.org/abstract/document/10130402) | - |
