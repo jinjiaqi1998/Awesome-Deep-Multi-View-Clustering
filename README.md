@@ -57,6 +57,7 @@ According to the integrity of multi-view data, the paper is divided into deep mu
 
 | Year | Title                                                        | Abbreviation |    Venue    |    Paper    |     Code    |
 | ---- | ------------------------------------------------------------ | :----------: | :---------: | :---------: | :---------: |
+| 2023 | **Dual Fusion-Propagation Graph Neural Network for Multi-view Clustering** | **DFP-GNN** | TMM | [![](https://img.shields.io/badge/-paper-blue)](https://ieeexplore.ieee.org/abstract/document/10050836/) | - |
 | 2023 | **Joint Shared-and-Specific Information for Deep Multi-View Clustering** | **JSSI** | TCSVT | [![](https://img.shields.io/badge/-paper-blue)](https://ieeexplore.ieee.org/abstract/document/10130402) | - |
 | 2023 | **On the Effects of Self-supervision and Contrastive Alignment in Deep Multi-view Clustering** | **DeepMVC** | CVPR | [![](https://img.shields.io/badge/-paper-blue)](http://openaccess.thecvf.com/content/CVPR2023/papers/Trosten_On_the_Effects_of_Self-Supervision_and_Contrastive_Alignment_in_Deep_CVPR_2023_paper.pdf) | [![](https://img.shields.io/badge/-code-red)](https://github.com/DanielTrosten/DeepMVC) |
 | 2023 | **GCFAgg：Global and Cross-view Feature Aggregation for Multi-view Clustering** | **GCFAgg** | CVPR | [![](https://img.shields.io/badge/-paper-blue)](https://openaccess.thecvf.com/content/CVPR2023/papers/Yan_GCFAgg_Global_and_Cross-View_Feature_Aggregation_for_Multi-View_Clustering_CVPR_2023_paper.pdf) |  -  |
