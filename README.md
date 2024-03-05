@@ -57,6 +57,7 @@ According to the integrity of multi-view data, the paper is divided into deep mu
 
 | Year | Title                                                        | Abbreviation |    Venue    |    Paper    |     Code    |
 | ---- | ------------------------------------------------------------ | :----------: | :---------: | :---------: | :---------: |
+| 2024 | **Deep Generative Clustering with Multimodal Diffusion Variational Autoencoders** | **CMVAE** | ICLR | [![](https://img.shields.io/badge/-paper-blue)](https://openreview.net/pdf?id=k5THrhXDV3) | - |
 | 2023 | **Deep Multiview Clustering by Contrasting Cluster Assignments** | **CVCL** | ICCV | [![](https://img.shields.io/badge/-paper-blue)](https://arxiv.org/pdf/2304.10769) | [![](https://img.shields.io/badge/-code-red)](https://github.com/chenjie20/CVCL/) |
 | 2023 | **DealMVC: Dual Contrastive Calibration for Multi-view Clustering** | **DealMVC** | ACM MM | [![](https://img.shields.io/badge/-paper-blue)](https://arxiv.org/pdf/2308.09000) | [![](https://img.shields.io/badge/-code-red)](https://github.com/xihongyang1999/DealMVC) |
 | 2023 | **Self-Supervised Graph Attention Networks for Deep Weighted Multi-View Clustering** | **SGDMC** | AAAI | [![](https://img.shields.io/badge/-paper-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/25960/25732) | - |
