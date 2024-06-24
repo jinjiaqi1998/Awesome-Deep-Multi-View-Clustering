@@ -58,6 +58,7 @@ According to the integrity of multi-view data, the paper is divided into deep mu
 
 | Year | Title                                                        | Abbreviation |    Venue    |    Paper    |     Code    |
 | ---- | ------------------------------------------------------------ | :----------: | :---------: | :---------: | :---------: |
+| 2024 | **SURER: Structure-Adaptive Unified Graph Neural Network for Multi-View Clustering** | **SURER** | AAAI | [![](https://img.shields.io/badge/-paper-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/29478/30785) | - |
 | 2024 | **Deep Generative Clustering with Multimodal Diffusion Variational Autoencoders** | **CMVAE** | ICLR | [![](https://img.shields.io/badge/-paper-blue)](https://openreview.net/pdf?id=k5THrhXDV3) | - |
 | 2023 | **Generalized Information-theoretic Multi-view Clustering** | **IMC** | NeurIPS | [![](https://img.shields.io/badge/-paper-blue)](https://proceedings.neurips.cc/paper_files/paper/2023/file/b7aa34d2d24f9bab3056993b7bfa0f1b-Paper-Conference.pdf) | - |
 | 2023 | **Self-Weighted Contrastive Learning among Multiple Views for Mitigating Representation Degeneration** | **SEM** | NeurIPS | [![](https://img.shields.io/badge/-paper-blue)]([https://proceedings.neurips.cc/paper_files/paper/2023/file/8c64bc3f7796d31caa7c3e6b969bf7da-Paper-Conference.pdf](https://proceedings.neurips.cc/paper_files/paper/2023/file/03b13b0db740b95cb741e007178ef5e5-Paper-Conference.pdf)) | [![](https://img.shields.io/badge/-code-red)](https://github.com/SubmissionsIn/SEM/archive/refs/heads/main.zip) |
