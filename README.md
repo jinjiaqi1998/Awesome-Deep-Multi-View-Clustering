@@ -58,15 +58,15 @@ According to the integrity of multi-view data, the paper is divided into deep mu
 
 | Year | Title                                                        | Abbreviation |    Venue    |    Paper    |     Code    |
 | ---- | ------------------------------------------------------------ | :----------: | :---------: | :---------: | :---------: |
-| 2024 | **Simple Contrastive Multi-View Clustering with Data-Level Fusion** | - | IJCAI | - | - |
-| 2024 | **Fast Unpaired Multi-view Clustering** | - | IJCAI | - | - |
-| 2024 | **Integrating Vision-Language Semantic Graphs in Multi-View Clustering** | - | IJCAI | - | - |
-| 2024 | **Dual Contrastive Graph-Level Clustering with Multiple Cluster Perspectives Alignment** | - | IJCAI | - | - |
-| 2024 | **Active Deep Multi-view Clustering** | - | IJCAI | - | - |
-| 2024 | **Dynamic Weighted Graph Fusion for Deep Multi-View Clustering** | - | IJCAI | - | - |
-| 2024 | **Cross-View Diversity Embedded Consensus Learning for Multi-View Clustering** | - | IJCAI | - | - |
-| 2024 | **Self-supervised Weighted Information Bottleneck for Multi-view Clustering** | - | IJCAI | - | - |
-| 2024 | **Contrastive and View-Interaction Structure Learning for Multi-view Clustering** | - | IJCAI | - | - |
+[comment]: <| 2024 | **Simple Contrastive Multi-View Clustering with Data-Level Fusion** | - | IJCAI | - | - |>
+[comment]: <| 2024 | **Fast Unpaired Multi-view Clustering** | - | IJCAI | - | - |>
+[comment]: <| 2024 | **Integrating Vision-Language Semantic Graphs in Multi-View Clustering** | - | IJCAI | - | - |>
+[comment]: <| 2024 | **Dual Contrastive Graph-Level Clustering with Multiple Cluster Perspectives Alignment** | - | IJCAI | - | - |>
+[comment]: <| 2024 | **Active Deep Multi-view Clustering** | - | IJCAI | - | - |>
+[comment]: <| 2024 | **Dynamic Weighted Graph Fusion for Deep Multi-View Clustering** | - | IJCAI | - | - |>
+[comment]: <| 2024 | **Cross-View Diversity Embedded Consensus Learning for Multi-View Clustering** | - | IJCAI | - | - |>
+[comment]: <| 2024 | **Self-supervised Weighted Information Bottleneck for Multi-view Clustering** | - | IJCAI | - | - |>
+[comment]: <| 2024 | **Contrastive and View-Interaction Structure Learning for Multi-view Clustering** | - | IJCAI | - | - |>
 | 2024 | **SURER: Structure-Adaptive Unified Graph Neural Network for Multi-View Clustering** | **SURER** | AAAI | [![](https://img.shields.io/badge/-paper-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/29478/30785) | - |
 | 2024 | **Deep Generative Clustering with Multimodal Diffusion Variational Autoencoders** | **CMVAE** | ICLR | [![](https://img.shields.io/badge/-paper-blue)](https://openreview.net/pdf?id=k5THrhXDV3) | - |
 | 2023 | **Generalized Information-theoretic Multi-view Clustering** | **IMC** | NeurIPS | [![](https://img.shields.io/badge/-paper-blue)](https://proceedings.neurips.cc/paper_files/paper/2023/file/b7aa34d2d24f9bab3056993b7bfa0f1b-Paper-Conference.pdf) | - |
