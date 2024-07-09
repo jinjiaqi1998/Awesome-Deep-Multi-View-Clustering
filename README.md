@@ -36,6 +36,9 @@ Deep multi-view clustering aims to reveal the potential complementary informatio
 ##  <span id="jump2">Surveys </span>
 | Year | Title                                                                 |    Venue    |    Paper    |
 | ---- | --------------------------------------------------------------------- | :---------: | :---------: |
+| 2024 | **A Survey and an Empirical Evaluation of Multi-view Clustering Approaches** |    ACM CS   | [![](https://img.shields.io/badge/-paper-blue)](https://www.researchgate.net/profile/Guowang-Du/publication/378091506_A_Survey_and_an_Empirical_Evaluation_of_Multi-view_Clustering_Approaches/links/65cc1c261bed776ae34f5e80/A-Survey-and-an-Empirical-Evaluation-of-Multi-View-Clustering-Approaches.pdf) |
+| 2024 | **Deep Clustering：A Comprehensive Survey** |    TNNLS   | [![](https://img.shields.io/badge/-paper-blue)](https://arxiv.org/pdf/2210.04142) |
+| 2024 | **Breaking Down Multi-view Clustering：A Comprehensive Review of Multi-view Approaches for Complex Data Structures** |    EAAI   | [![](https://img.shields.io/badge/-paper-blue)](https://www.sciencedirect.com/science/article/pii/S0952197624000150) |
 | 2024 | **Incomplete Multi-view Learning: Review, Analysis, and Prospects** |    ASC   | [![](https://img.shields.io/badge/-paper-blue)](https://www.sciencedirect.com/science/article/pii/S1568494624000528) |
 | 2023 | **A Comprehensive Survey on Multi-view Clustering** |    TKDE   | [![](https://img.shields.io/badge/-paper-blue)](https://ieeexplore.ieee.org/abstract/document/10108535) |
 | 2022 | **Representation Learning in Multi-view Clustering: A Literature Review** | DSE | [![](https://img.shields.io/badge/-paper-blue)](https://link.springer.com/article/10.1007/s41019-022-00190-8) |
