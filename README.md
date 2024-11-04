@@ -62,7 +62,7 @@ According to the integrity of multi-view data, the paper is divided into deep mu
 
 | Year | Title                                                        | Abbreviation |    Venue    |    Paper    |     Code    |
 | ---- | ------------------------------------------------------------ | :----------: | :---------: | :---------: | :---------: |
-| 2024 | **SURER: Structure-Adaptive Unified Graph Neural Network for Multi-View Clustering** | **SURER** | AAAI | [![](https://img.shields.io/badge/-paper-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/29478/30785) | - |
+| 2024 | **SURER: Structure-Adaptive Unified Graph Neural Network for Multi-View Clustering** | **SURER** | AAAI | [![](https://img.shields.io/badge/-paper-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/29478/30785) | [![](https://img.shields.io/badge/-code-red)](https://github.com/Wjing-bjtu/SURER) |
 | 2024 | **Deep Generative Clustering with Multimodal Diffusion Variational Autoencoders** | **CMVAE** | ICLR | [![](https://img.shields.io/badge/-paper-blue)](https://openreview.net/pdf?id=k5THrhXDV3) | - |
 | 2024 | **Structural deep multi-view clustering with integrated abstraction and detail** | **SMVC** | NN | [![](https://img.shields.io/badge/-paper-blue)](https://www.sciencedirect.com/science/article/pii/S0893608024002119) | - |
 | 2024 | **Progressive Neighbor-masked Contrastive Learning for Fusion-style Deep Multi-View Clustering** | **PNCL-FDMC** | NN | [![](https://img.shields.io/badge/-paper-blue)](https://www.sciencedirect.com/science/article/pii/S0893608024004271?dgcid=rss_sd_all) | - |
