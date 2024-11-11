@@ -38,6 +38,7 @@ Deep multi-view clustering aims to reveal the potential complementary informatio
 | Year | Title                                                                 |    Venue    |    Paper    |
 | ---- | --------------------------------------------------------------------- | :---------: | :---------: |
 | 2024 | **A Survey and an Empirical Evaluation of Multi-view Clustering Approaches** |    ACM CS   | [![](https://img.shields.io/badge/-paper-blue)](https://www.researchgate.net/profile/Guowang-Du/publication/378091506_A_Survey_and_an_Empirical_Evaluation_of_Multi-view_Clustering_Approaches/links/65cc1c261bed776ae34f5e80/A-Survey-and-an-Empirical-Evaluation-of-Multi-View-Clustering-Approaches.pdf) |
+| 2024 | **Self‐supervised multi‐view clustering in computer vision: A survey** |    IET CV   | [![](https://img.shields.io/badge/-paper-blue)](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/cvi2.12299) |
 | 2024 | **Deep Clustering：A Comprehensive Survey** |    TNNLS   | [![](https://img.shields.io/badge/-paper-blue)](https://arxiv.org/pdf/2210.04142) |
 | 2024 | **Breaking Down Multi-view Clustering：A Comprehensive Review of Multi-view Approaches for Complex Data Structures** |    EAAI   | [![](https://img.shields.io/badge/-paper-blue)](https://www.sciencedirect.com/science/article/pii/S0952197624000150) |
 | 2024 | **Incomplete Multi-view Learning: Review, Analysis, and Prospects** |    ASC   | [![](https://img.shields.io/badge/-paper-blue)](https://www.sciencedirect.com/science/article/pii/S1568494624000528) |
