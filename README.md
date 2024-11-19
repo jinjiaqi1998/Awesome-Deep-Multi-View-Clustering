@@ -246,4 +246,59 @@ According to the integrity of multi-view data, the paper is divided into deep mu
   pages={11600--11609},
   year={2023}
 }
+
+@inproceedings{wangevaluate,
+  title={Evaluate then Cooperate: Shapley-based View Cooperation Enhancement for Multi-view Clustering},
+  author={Wang, Fangdi and Jin, Jiaqi and Hu, Jingtao and Liu, Suyuan and Yang, Xihong and Wang, Siwei and Liu, Xinwang and Zhu, En},
+  booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems}
+}
+
+@article{wang2022align,
+  title={Align then fusion: Generalized large-scale multi-view clustering with anchor matching correspondences},
+  author={Wang, Siwei and Liu, Xinwang and Liu, Suyuan and Jin, Jiaqi and Tu, Wenxuan and Zhu, Xinzhong and Zhu, En},
+  journal={Advances in Neural Information Processing Systems},
+  volume={35},
+  pages={5882--5895},
+  year={2022}
+}
+
+@inproceedings{dong2023cross,
+  title={Cross-view topology based consistent and complementary information for deep multi-view clustering},
+  author={Dong, Zhibin and Wang, Siwei and Jin, Jiaqi and Liu, Xinwang and Zhu, En},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={19440--19451},
+  year={2023}
+}
+
+@inproceedings{yang2023dealmvc,
+  title={Dealmvc: Dual contrastive calibration for multi-view clustering},
+  author={Yang, Xihong and Jiaqi, Jin and Wang, Siwei and Liang, Ke and Liu, Yue and Wen, Yi and Liu, Suyuan and Zhou, Sihang and Liu, Xinwang and Zhu, En},
+  booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
+  pages={337--346},
+  year={2023}
+}
+
+@inproceedings{wang2024view,
+  title={View Gap Matters: Cross-view Topology and Information Decoupling for Multi-view Clustering},
+  author={Wang, Fangdi and Jin, Jiaqi and Dong, Zhibin and Yang, Xihong and Feng, Yu and Liu, Xinwang and Zhu, Xinzhong and Wang, Siwei and Liu, Tianrui and Zhu, En},
+  booktitle={Proceedings of the 32nd ACM International Conference on Multimedia},
+  pages={8431--8440},
+  year={2024}
+}
+
+@article{dong2024subgraph,
+  title={Subgraph Propagation and Contrastive Calibration for Incomplete Multiview Data Clustering},
+  author={Dong, Zhibin and Jin, Jiaqi and Xiao, Yuyang and Xiao, Bin and Wang, Siwei and Liu, Xinwang and Zhu, En},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2024},
+  publisher={IEEE}
+}
+
+@article{dong2023iterative,
+  title={Iterative deep structural graph contrast clustering for multiview raw data},
+  author={Dong, Zhibin and Jin, Jiaqi and Xiao, Yuyang and Wang, Siwei and Zhu, Xinzhong and Liu, Xinwang and Zhu, En},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2023},
+  publisher={IEEE}
+}
 ```
