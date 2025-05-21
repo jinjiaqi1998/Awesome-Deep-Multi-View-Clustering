@@ -37,6 +37,8 @@ Deep multi-view clustering aims to reveal the potential complementary informatio
 ##  <span id="jump2">Surveys </span>
 | Year | Title                                                                 |    Venue    |    Paper    |
 | ---- | --------------------------------------------------------------------- | :---------: | :---------: |
+| 2025 | **Deep Multi-view Clustering：A Comprehensive Survey of the Contemporary Techniques** |    IF   | [![](https://img.shields.io/badge/-paper-blue)](https://www.sciencedirect.com/science/article/pii/S1566253525000855) |
+| 2025 | **Advanced Unsupervised Learning：A Comprehensive Overview of Multi-view Clustering Techniques** |    AIR   | [![](https://img.shields.io/badge/-paper-blue)](https://link.springer.com/content/pdf/10.1007/s10462-025-11240-8.pdf) |
 | 2024 | **A Survey and an Empirical Evaluation of Multi-view Clustering Approaches** |    ACM CS   | [![](https://img.shields.io/badge/-paper-blue)](https://www.researchgate.net/profile/Guowang-Du/publication/378091506_A_Survey_and_an_Empirical_Evaluation_of_Multi-view_Clustering_Approaches/links/65cc1c261bed776ae34f5e80/A-Survey-and-an-Empirical-Evaluation-of-Multi-View-Clustering-Approaches.pdf) |
 | 2024 | **Self‐Supervised Multi‐View Clustering in Computer Vision: A Survey** |    IET CV   | [![](https://img.shields.io/badge/-paper-blue)](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/cvi2.12299) |
 | 2024 | **The Methods for Improving Large-Scale Multi-View Clustering Efficiency: A Survey** |    AIR   | [![](https://img.shields.io/badge/-paper-blue)](https://link.springer.com/content/pdf/10.1007/s10462-024-10785-4.pdf) |
