@@ -224,6 +224,7 @@ According to the integrity of multi-view data, the paper is divided into deep mu
 
 | Year | Title                                                        | Abbreviation |    Venue    |    Paper    |     Code    |
 | ---- | ------------------------------------------------------------ | :----------: | :---------: | :---------: | :---------: |
+| 2025 | **Incomplete Multi-view Clustering via Hierarchical Semantic Alignment and Cooperative Completion** | **HSACC** | NIPS |  [![](https://img.shields.io/badge/-paper-blue)](https://arxiv.org/pdf/2510.13887) | [![](https://img.shields.io/badge/-code-red)](https://github.com/XiaojianDing/2025-NeurIPS-HSACC) |
 | 2025 | **An Effective and Secure Federated Multi-View Clustering Method with Information-Theoretic Perspective** | **ESFMC** | ICML |  [![](https://img.shields.io/badge/-paper-blue)](https://openreview.net/pdf?id=eLkkXaPFEP) | [![](https://img.shields.io/badge/-code-red)](https://github.com/5Martina5/ESFMC) |
 | 2025 | **Federated Incomplete Multi-view Clustering with Globally Fused Graph Guidance** | **FIMCFG** | ICML |  [![](https://img.shields.io/badge/-paper-blue)](https://openreview.net/pdf?id=7qvYLnJDRd) | [![](https://img.shields.io/badge/-code-red)](https://github.com/PaddiHunter/FIMCFG) |
 | 2025 | **Deep Incomplete Multi-view Learning via Cyclic Permutation of VAEs** | **MVP** | ICLR |  [![](https://img.shields.io/badge/-paper-blue)](https://arxiv.org/pdf/2502.11037) | [![](https://img.shields.io/badge/-code-red)](https://openreview.net/forum?id=s4MwstmB8o) |
