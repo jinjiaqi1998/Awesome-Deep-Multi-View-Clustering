@@ -66,9 +66,6 @@ According to the integrity of multi-view data, the paper is divided into deep mu
 
 | Year | Title                                                        | Abbreviation |    Venue    |    Paper    |     Code    |
 | ---- | ------------------------------------------------------------ | :----------: | :---------: | :---------: | :---------: |
-
-
-
 | 2025 | **LLM-DAMVC: A Large Language Model Assisted Dynamic Agent for Multi-View Clustering** | **LLM-DAMVC** | NeurIPS | [![](https://img.shields.io/badge/-paper-blue)](https://openreview.net/pdf?id=xgiMK8FtSI) | - |
 | 2025 | **SparseMVC: Probing Cross-view Sparsity Variations for Multi-view Clustering** | **SparseMVC** | NeurIPS | [![](https://img.shields.io/badge/-paper-blue)](https://openreview.net/pdf?id=cvJvk6oYfC) |[![](https://img.shields.io/badge/-code-red)](https://github.com/cleste-pome/SparseMVC)|
 | 2025 | **Multi-View Graph Clustering via Node-Guided Contrastive Encoding** | **NGCE** | ICML | [![](https://img.shields.io/badge/-paper-blue)](https://openreview.net/pdf?id=Ae5qnQxAxQ) |[![](https://img.shields.io/badge/-code-red)](https://github.com/Rirayh/NGCE)|
