@@ -321,6 +321,14 @@ According to the integrity of multi-view data, the paper is divided into deep mu
 
 ## <span id="jump4">Citation </span>
 ```
+@inproceedings{jin2025deep,
+  title={Deep incomplete multi-view clustering with distribution dual-consistency recovery guidance},
+  author={Jin, Jiaqi and Wang, Siwei and Dong, Zhibin and Yang, Xihong and Liu, Xinwang and Zhu, En and He, Kunlun},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={1016--1026},
+  year={2025}
+}
+
 @inproceedings{jin2023deep,
   title={Deep Incomplete Multi-view Clustering with Cross-view Partial Sample and Prototype Alignment},
   author={Jin, Jiaqi and Wang, Siwei and Dong, Zhibin and Liu, Xinwang and Zhu, En},
