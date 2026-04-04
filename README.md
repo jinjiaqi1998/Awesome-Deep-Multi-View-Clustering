@@ -343,6 +343,41 @@ According to the integrity of multi-view data, the paper is divided into deep mu
   booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems}
 }
 
+@article{yang2025automatically,
+  title={Automatically identify and rectify: Robust deep contrastive multi-view clustering in noisy scenarios},
+  author={Yang, Xihong and Wang, Siwei and Wang, Fangdi and Jin, Jiaqi and Liu, Suyuan and Liu, Yue and Zhu, En and Liu, Xinwang and Jin, Yueming},
+  journal={arXiv preprint arXiv:2505.21387},
+  year={2025}
+}
+
+@inproceedings{yang2025generalized,
+  title={Generalized Deep Multi-view Clustering via Causal Learning with Partially Aligned Cross-view Correspondence},
+  author={Yang, Xihong and Wang, Siwei and Jin, Jiaqi and Wang, Fangdi and Liu, Tianrui and Jin, Yueming and Liu, Xinwang and Zhu, En and He, Kunlun},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={1990--1999},
+  year={2025}
+}
+
+@inproceedings{xiao2026dmcar,
+  title={DMCAR: Disentangled Mixture-of-Experts with Context-Aware Routing for Multi-View Clustering},
+  author={Xiao, Baili and Liang, Ke and Jin, Jiaqi and Wang, Jun and Xu, Yinbo and Wang, Siwei and Zhu, En},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={32},
+  pages={27055--27063},
+  year={2026}
+}
+
+@inproceedings{zhou2026hierarchical,
+  title={Hierarchical Cross-View Alignment for Multi-View Clustering via Decoupled Information Distillation},
+  author={Zhou, Taichun and Wang, Siwei and Dong, Zhibin and Jin, Jiaqi and Liang, Ke and Xiao, Baili and Li, Miaomiao and Liu, Xinwang and Zhu, En},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={34},
+  pages={29000--29008},
+  year={2026}
+}
+
 @article{wang2022align,
   title={Align then fusion: Generalized large-scale multi-view clustering with anchor matching correspondences},
   author={Wang, Siwei and Liu, Xinwang and Liu, Suyuan and Jin, Jiaqi and Tu, Wenxuan and Zhu, Xinzhong and Zhu, En},
@@ -350,6 +385,30 @@ According to the integrity of multi-view data, the paper is divided into deep mu
   volume={35},
   pages={5882--5895},
   year={2022}
+}
+
+@inproceedings{dai2025imputation,
+  title={Imputation-free and alignment-free: Incomplete multi-view clustering driven by consensus semantic learning},
+  author={Dai, Yuzhuo and Jin, Jiaqi and Dong, Zhibin and Wang, Siwei and Liu, Xinwang and Zhu, En and Yang, Xihong and Gan, Xinbiao and Feng, Yu},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={5071--5081},
+  year={2025}
+}
+
+@inproceedings{dong2025enhanced,
+  title={Enhanced then progressive fusion with view graph for multi-view clustering},
+  author={Dong, Zhibin and Liu, Meng and Wang, Siwei and Liang, Ke and Zhang, Yi and Liu, Suyuan and Jin, Jiaqi and Liu, Xinwang and Zhu, En},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={15518--15527},
+  year={2025}
+}
+
+@article{dong2025selective,
+  title={Selective cross-view topology for deep incomplete multi-view clustering},
+  author={Dong, Zhibin and Hu, Dayu and Jin, Jiaqi and Wang, Siwei and Liu, Xinwang and Zhu, En},
+  journal={IEEE Transactions on Image Processing},
+  year={2025},
+  publisher={IEEE}
 }
 
 @inproceedings{dong2023cross,
