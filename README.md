@@ -360,6 +360,12 @@ According to the integrity of multi-view data, the paper is divided into deep mu
 
 ## <span id="jump4">Citation </span>
 ```
+@inproceedings{jinalleviating,
+  title={Alleviating Observation Bias via Causal-Invariant Meta-Learning for Unbalanced Incomplete Multi-view Clustering},
+  author={Jin, Jiaqi and Wang, Siwei and Zhou, Taichun and Dong, Zhibin and Wang, Siqi and Li, Miaomiao and Liu, Xinwang and Zhu, En},
+  booktitle={Forty-third International Conference on Machine Learning}
+}
+
 @inproceedings{jin2025deep,
   title={Deep incomplete multi-view clustering with distribution dual-consistency recovery guidance},
   author={Jin, Jiaqi and Wang, Siwei and Dong, Zhibin and Yang, Xihong and Liu, Xinwang and Zhu, En and He, Kunlun},
