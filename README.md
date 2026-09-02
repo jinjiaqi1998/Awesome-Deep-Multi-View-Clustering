@@ -37,6 +37,7 @@ Deep multi-view clustering aims to reveal the potential complementary informatio
 ##  <span id="jump2">Surveys </span>
 | Year | Title                                                                 |    Venue    |    Paper    |
 | ---- | --------------------------------------------------------------------- | :---------: | :---------: |
+| 2025 | **Two decades of multi-view clustering: Taxonomy, application, and challenge** |    TPAMI   | [![](https://img.shields.io/badge/-paper-blue)](https://ieeexplore.ieee.org/abstract/document/11277376/) |
 | 2025 | **Deep Multi-view Clustering：A Comprehensive Survey of the Contemporary Techniques** |    IF   | [![](https://img.shields.io/badge/-paper-blue)](https://www.sciencedirect.com/science/article/pii/S1566253525000855) |
 | 2025 | **Advanced Unsupervised Learning：A Comprehensive Overview of Multi-view Clustering Techniques** |    AIR   | [![](https://img.shields.io/badge/-paper-blue)](https://link.springer.com/content/pdf/10.1007/s10462-025-11240-8.pdf) |
 | 2024 | **A Survey and an Empirical Evaluation of Multi-view Clustering Approaches** |    ACM CS   | [![](https://img.shields.io/badge/-paper-blue)](https://www.researchgate.net/profile/Guowang-Du/publication/378091506_A_Survey_and_an_Empirical_Evaluation_of_Multi-view_Clustering_Approaches/links/65cc1c261bed776ae34f5e80/A-Survey-and-an-Empirical-Evaluation-of-Multi-View-Clustering-Approaches.pdf) |
